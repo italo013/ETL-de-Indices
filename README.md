@@ -17,17 +17,10 @@ Este script realiza ETL (Extract, Transform, Load) para índices financeiros, ut
 - Bibliotecas Python: pandas, datetime, requests, yfinance, plotly, openpyxl
 
 ## Como Usar
-1. Instale as bibliotecas Python listadas em "Requisitos".
-2. Execute o script usando um interpretador Python.
-
-## Funções
-- `plot_line(df, x_col='data', y_col='rent', title="Line Plot", x_label="Date", y_label="Rent")`: Esta função cria e exibe um gráfico de linha com os dados fornecidos.
+1. Execute o script usando um interpretador Python.
 
 ## Objetivo
 O script foi criado com o objetivo de realizar ETL em índices financeiros para uso em outros projetos.
 
 ## Autor
-Inserir nome do autor aqui
-
-## Licença
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE.md](LICENSE.md) para detalhes.
+[Italo Igor](https://www.linkedin.com/in/italo013/)
